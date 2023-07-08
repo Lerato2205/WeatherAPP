@@ -2,3 +2,6 @@ body {
   font-family: sans-serif;
   color: white;
 }
+.weather-forecast-temp-min {
+  opacity: 0.5;
+}
