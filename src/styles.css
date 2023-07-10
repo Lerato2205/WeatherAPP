@@ -5,3 +5,7 @@ body {
 .weather-forecast-temp-min {
   opacity: 0.5;
 }
+p2 {
+  display: block;
+  text-align: center;
+}
